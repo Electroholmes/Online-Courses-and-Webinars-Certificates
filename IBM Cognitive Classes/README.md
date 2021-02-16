@@ -1,1 +1,1 @@
-**This folder consists of certificates achieved via IBM.**
+**This folder consists of certificates and badges achieved via IBM.**
